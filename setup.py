@@ -23,7 +23,7 @@
 # Author: Konstantin Lepa <konstantin.lepa@gmail.com>
 
 import os
-from distutils.core import setup
+from setuptools import setup
 
 prjdir = os.path.dirname(__file__)
 
